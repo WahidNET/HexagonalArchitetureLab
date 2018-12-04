@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Finance.Service</name>
+    </assembly>
+    <members>
+        <member name="M:Finance.Service.UseCases.GetAccountDetails.AccountsController.Get(System.Guid)">
+            <summary>
+            Get an account balance
+            </summary>
+        </member>
+        <member name="M:Finance.Service.UseCases.GetCustomerDetails.CustomersController.GetCustomer(System.Guid)">
+            <summary>
+            Get a Customer details 
+            </summary>
+        </member>
+        <member name="M:Finance.Service.UseCases.Register.CustomersController.Post(Finance.Service.UseCases.Register.RegisterRequest)">
+            <summary>
+            Register a new Customer
+            </summary>
+        </member>
+    </members>
+</doc>

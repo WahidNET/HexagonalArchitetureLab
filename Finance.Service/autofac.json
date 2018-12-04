@@ -1,0 +1,18 @@
+{
+  "defaultAssembly": "Finance.Infrastructure",
+  "modules": [
+    {
+      "type": "Finance.Infrastructure.Modules.WebApiModule",
+      "properties": {
+      }
+    },
+    {
+      "type": "Finance.Infrastructure.Modules.ApplicationModule",
+      "properties": {
+      }
+    },
+    {
+      "type": "Finance.Infrastructure.SQLServer.Module"
+    }
+  ]
+}

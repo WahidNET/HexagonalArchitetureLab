@@ -1,0 +1,13 @@
+﻿using Finance.Domain.Accounts;
+using System.Threading.Tasks;
+
+namespace Finance.Application.Repositories
+{
+    public interface IAccountWriteOnlyRepository
+    {
+        Task Add(Account account, Credit credit);
+        Task Update(Account account, Credit credit);
+        Task Update(Account account, Debit debit);
+        Task Delete(Account account);
+    }
+}
