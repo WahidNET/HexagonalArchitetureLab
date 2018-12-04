@@ -23,11 +23,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.WebAPI", "1.WebAPI", "{4B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finance.Service", "Finance.Service\Finance.Service.csproj", "{0F32A40F-0E4B-48AC-95A7-38CEDBCE1401}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Finance", "Finance", "{A1514D9D-21D2-4A12-9917-DEC40FDEB2BD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FinanceApplication", "FinanceApplication", "{A1514D9D-21D2-4A12-9917-DEC40FDEB2BD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Consumer", "2.Consumer", "{C44EB05F-5D44-426D-85DA-BC9CC3784C69}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clients", "Clients", "{8227151C-7904-4671-8786-F2B52B1F2209}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClientsAdapters", "ClientsAdapters", "{8227151C-7904-4671-8786-F2B52B1F2209}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
