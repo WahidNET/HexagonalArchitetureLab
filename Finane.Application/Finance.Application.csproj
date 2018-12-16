@@ -7,7 +7,6 @@
   <ItemGroup>
     <Folder Include="Commands\CloseAccount\" />
     <Folder Include="Commands\Deposit\" />
-    <Folder Include="Commands\Withdraw\" />
   </ItemGroup>
 
   <ItemGroup>

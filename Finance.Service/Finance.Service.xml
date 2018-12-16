@@ -19,5 +19,10 @@
             Register a new Customer
             </summary>
         </member>
+        <member name="M:Finance.Service.UseCases.Withdraw.AccountsController.Withdraw(Finance.Service.UseCases.Withdraw.WithdrawRequest)">
+            <summary>
+            Withdraw from an account
+            </summary>
+        </member>
     </members>
 </doc>
